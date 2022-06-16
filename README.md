@@ -1,6 +1,6 @@
 # Advent of code - Day 6
 
-!["logo"]("./../highcoastcoding.png")
+![logo](highcoastcoding.png)
 
 The following project is an example of an solution for day 6 task in [Advent of code](https://adventofcode.com/2021/day/6)
 
@@ -17,4 +17,4 @@ The following project is an example of an solution for day 6 task in [Advent of 
 
 ```./mvnw org.owasp:dependency-check-maven:aggregate```
 
-Report can be found in *target/
+Report can be found in *target/*
