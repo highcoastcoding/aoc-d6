@@ -11,7 +11,7 @@ The following project is an example of an solution for day 6 task in [Advent of 
 ## Debug
 ```mvn org.springframework.boot:spring-boot-maven-plugin:run -Dspring-boot.run.arguments="--logging.level.se.hcc.aoc=debug"```
 
-## Run a dependency analisys
+## Run a dependency check
 
 ```mvn org.owasp:dependency-check-maven:aggregate```
 
